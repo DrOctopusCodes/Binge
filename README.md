@@ -2,7 +2,7 @@
 
 * Track your shows
 * Add shows to your wishlist
-* Uses Frebase
+* Uses Firebase
 * Search shows
 
 ## Home page
@@ -34,7 +34,8 @@ Search bar on top
 Milestones:
 Add episodes & season info
 
-//Done
+//Done    
+
 spinner instead of no shows
 spinner inside my shows - didnt work
 crop header line
@@ -43,7 +44,8 @@ find out the number of pages from the API. Set that in pagination, instead of '2
 On removing a show from watchlist, remove it from my shows
 Limit the height of My Shows window. After a certain number should become a scrollable view
 
-//PARKED FOR NOW
+//PARKED FOR NOW   
+
 Maybe add a couple more rows into the feed
 
 API used
