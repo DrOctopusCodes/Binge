@@ -1,5 +1,27 @@
-## Shows tracker website
+# Binge
 
+* Track your shows
+* Add shows to your wishlist
+* Uses Frebase
+* Search shows
+
+## Home page
+![Image of Project](https://github.com/DrOctopusCodes/Binge/blob/master/screenshots/1.PNG)
+
+
+## Add shows
+![Image of Project](https://github.com/DrOctopusCodes/Binge/blob/master/screenshots/2.PNG)
+
+
+## Page view
+![Image of Project](https://github.com/DrOctopusCodes/Binge/blob/master/screenshots/3.PNG)
+
+
+## Retrieve your shows from watchlist
+![Image of Project](https://github.com/DrOctopusCodes/Binge/blob/master/screenshots/4.PNG)
+
+
+### Commands
 npm install axios
 @material-ui/core
 @material-ui/icons
