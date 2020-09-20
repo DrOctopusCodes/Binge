@@ -1,0 +1,15 @@
+.footer{
+    height: 10vh;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.paginator{
+    display: flex;
+    justify-content: center;
+}

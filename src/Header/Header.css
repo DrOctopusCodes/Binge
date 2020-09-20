@@ -1,0 +1,108 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+
+.header{
+    background-color: #0779e4;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    padding-left: 5%;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+    height: 10vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+    }
+
+.myShows{
+    margin-left: auto;
+    margin-right: 2%;
+    height: 5vh;
+    margin-top: 20px;
+    background-color: white;
+    border: black;
+    width: 20vh;
+    border-radius: 2px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.closeBtn{
+    margin-left: auto;
+    margin-right: 2%;
+    height: 5vh;
+    margin-top: 1vh;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.titleContainer{
+    display: flex;
+    justify-content: center;
+    height: 7vh;
+}
+
+.showContainer{
+    /* display: flex;
+    justify-content: center; */
+    /* display: flex;
+    justify-content: center;
+    border-bottom: 10px;
+    height: 50px; */
+}
+
+.label{
+    margin-left: 0;
+    font-size: larger;
+}
+
+.rule{
+    width: 500px;
+    color: black;
+}
+
+.removeBtn{
+    margin-left: auto;
+    margin-right: 2%;
+    height: 3vh;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.myShowsDivs{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1vh;
+    border-bottom: 1px solid lightgray;
+    padding-top: 1vh;
+}
+
+
+.dialogBox{
+    color:black;
+}
+
+.toolbar{
+    margin-left: 1px;
+    margin-right: auto;
+    margin-top: 10px;
+    border: black;
+    border-radius: 2px;
+}
+
+

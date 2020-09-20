@@ -1,0 +1,56 @@
+.aligning{
+    width: 100%;
+    /* overflow: hidden !important; */
+    height: 80vh;
+    position: absolute;
+    top: 10vh;
+    bottom: 10vh;
+    left: 0px;
+    right: 0px;
+    overflow-x: hidden !important;
+    overflow-y: auto;
+
+}
+
+.gridContainer{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color: lightgray;
+    width: 100%;
+}
+
+.grid{
+    background-color:lightgray;
+    justify-content: space-evenly;
+    margin-left: 10vh;
+    width: 100%;
+}
+
+.imageHolder{
+    width: 20vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 2vh;
+}
+
+.cardPoster{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card{
+    display: block;
+    width: 20vw;
+    height: 70vh;
+    padding: 2;
+}
+
+.cardDetail{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 5vh;
+}
